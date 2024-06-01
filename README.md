@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Your Name]
+## Hi there 👋 I'm Max
 
 ### About Me
 I am currently pursuing a Master's degree in Financial Technology and Analytics, with a strong passion for data science and its applications in finance. I have hands-on experience with various data analysis and machine learning projects, and I am actively seeking opportunities to apply my skills in a professional setting.
