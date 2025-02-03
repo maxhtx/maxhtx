@@ -14,32 +14,31 @@ I am currently pursuing a Master's degree in Financial Technology and Analytics,
 - **Data Analysis**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Databases**: MySQL, NoSQL
-- **Tools**: Git, Jupyter Notebooks, Tableau, Excel
+- **Tools**: Git, Jupyter Notebooks, Tableau, Power BI, Excel
 - **Finance**: Financial modeling, Quantitative analysis
 
 ### Projects
 Here is my most recent project:
 
-1. **[Project Name]**  
-   [Brief description of the project, what technologies were used, and what you accomplished. Provide a link to the project repository.]
-   - [Link to Repository](https://github.com/yourusername/projectname)
-
-2. **[Project Name]**  
-   [Brief description of the project, what technologies were used, and what you accomplished. Provide a link to the project repository.]
+1. **Algorithmic Trading**  
+    • Built a machine learning model using XGBoost to produce a 7% return over the 1-year training period  
+   	• Engineered 12 unique features with SQL queries based on trading volume and price trends  
+    • Structured and cleaned financial data in python using scikit-learn, and created visualizations with seaborn  
+    • Developed a trading strategy by setting optimal stop loss and take profit levels using a grid search in python  
    - [Link to Repository](https://github.com/yourusername/projectname)
 
 ### Experience
 - **Finance Leadership Program Associate Intern**  
   McKesson, Dallas, TX  
-  June, 2024 - August, 2024
+  June, 2024 - August, 2024  
 
-- **Fixed Income Summer Analyst**
-  Garcia Hamilton & Associates, Houston, TX
+- **Fixed Income Summer Analyst**  
+  Garcia Hamilton & Associates, Houston, TX    
   July 2023 - August 2023
 
 ### Contact Me
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: [Your Email Address](mailto:youremail@example.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/max-helman/)
+- **Email**: [Email Address](mailto:max.helman@yahoo.com)
 
 ### Let's Connect
 I am always open to discussing data science, finance, or potential job opportunities. Feel free to reach out!
