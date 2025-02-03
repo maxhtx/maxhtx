@@ -25,7 +25,7 @@ Here is my most recent project:
    	• Engineered 12 unique features with SQL queries based on trading volume and price trends  
     • Structured and cleaned financial data in python using scikit-learn, and created visualizations with seaborn  
     • Developed a trading strategy by setting optimal stop loss and take profit levels using a grid search in python  
-   - [Link to Repository](https://github.com/yourusername/projectname)
+   - [Link to Repository](https://github.com/maxhtx/Bitcoin-Trading-Strategy)
 
 ### Experience
 - **Finance Leadership Program Associate Intern**  
