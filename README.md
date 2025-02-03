@@ -18,7 +18,7 @@ I am currently pursuing a Master's degree in Financial Technology and Analytics,
 - **Finance**: Financial modeling, Quantitative analysis
 
 ### Projects
-Here are a few projects I've worked on that showcase my skills and interests:
+Here is my most recent project:
 
 1. **[Project Name]**  
    [Brief description of the project, what technologies were used, and what you accomplished. Provide a link to the project repository.]
@@ -33,10 +33,9 @@ Here are a few projects I've worked on that showcase my skills and interests:
   McKesson, Dallas, TX  
   June, 2024 - August, 2024
 
-- **Research Assistant**  
-  [Your University], [Location]  
-  [Month, Year] - [Month, Year]
-  - [Brief description of your responsibilities and achievements]
+- **Fixed Income Summer Analyst**
+  Garcia Hamilton & Associates, Houston, TX
+  July 2023 - August 2023
 
 ### Contact Me
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
