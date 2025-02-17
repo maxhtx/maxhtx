@@ -10,7 +10,7 @@ I am currently pursuing a Master's degree in Financial Technology and Analytics,
   The University of Texas at Dallas, Graduated: 2023
 
 ### Skills
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, R, SQL, HTML, CSS
 - **Data Analysis**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 - **Data Visualization**: Matplotlib, Seaborn, Plotly
 - **Databases**: MySQL, NoSQL
