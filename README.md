@@ -18,14 +18,18 @@ I am currently pursuing a Master's degree in Financial Technology and Analytics,
 - **Finance**: Financial modeling, Quantitative analysis
 
 ### Projects
-Here is my most recent project:
+Here are my most recent projects:
+
+1. **Building Youtube homepage in html and css**  
+    • Grid content, headers, navbars, etc...  
+   - [Building Youtube](https://github.com/maxhtx/Building-Youtube-html-css)  
 
 1. **Algorithmic Trading**  
     • Built a machine learning model using XGBoost to produce a 7% return over the 1-year training period  
    	• Engineered 12 unique features with SQL queries based on trading volume and price trends  
     • Structured and cleaned financial data in python using scikit-learn, and created visualizations with seaborn  
     • Developed a trading strategy by setting optimal stop loss and take profit levels using a grid search in python  
-   - [Link to Repository](https://github.com/maxhtx/Bitcoin-Trading-Strategy)
+   - [Algorithmic Trading](https://github.com/maxhtx/Bitcoin-Trading-Strategy)
 
 ### Experience
 - **Finance Leadership Program Associate Intern**  
