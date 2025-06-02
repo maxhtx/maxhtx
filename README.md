@@ -1,48 +1,60 @@
 ## Hi there 👋 I'm Max
 
-### About Me
-I am currently pursuing a Master's degree in Financial Technology and Analytics, with a strong passion for data science and its applications in finance. I have hands-on experience with various data analysis and machine learning projects, and I am actively seeking opportunities to apply my skills in a professional setting.
+### About Me  
+I'm a **Finance Leadership Program Associate at McKesson**, with a Master’s in Financial Technology and Analytics from the University of Texas at Dallas. I'm passionate about applying data science, analytics, and machine learning to solve complex problems in finance. I’ve completed hands-on projects in algorithmic trading and financial modeling, and I enjoy turning data into actionable insights.
 
-### Education
+---
+
+### 🎓 Education  
 - **Master's in Financial Technology and Analytics**  
-  The University of Texas at Dallas, Expected Graduation: May, 2025
+  *The University of Texas at Dallas*, Graduated: May 2025  
 - **Bachelor's in Finance**  
-  The University of Texas at Dallas, Graduated: 2023
+  *The University of Texas at Dallas*, Graduated: 2023
 
-### Skills
-- **Programming Languages**: Python, R, SQL, HTML, CSS
-- **Data Analysis**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Databases**: MySQL, NoSQL
-- **Tools**: Git, Jupyter Notebooks, Tableau, Power BI, Excel
-- **Finance**: Financial modeling, Quantitative analysis
+---
 
-### Projects
-Here are my most recent projects:
+### 💼 Experience  
+- **Finance Leadership Program Associate**  
+  *McKesson, Dallas, TX*  
+  *August 2024 – Present*
 
-1. **Building Youtube homepage in html and css**  
-    • Grid content, headers, navbars, etc...  
-   - [Building Youtube](https://github.com/maxhtx/Building-Youtube-html-css)  
-
-1. **Algorithmic Trading**  
-    • Built a machine learning model using XGBoost to produce a 7% return over the 1-year training period  
-   	• Engineered 12 unique features with SQL queries based on trading volume and price trends  
-    • Structured and cleaned financial data in python using scikit-learn, and created visualizations with seaborn  
-    • Developed a trading strategy by setting optimal stop loss and take profit levels using a grid search in python  
-   - [Algorithmic Trading](https://github.com/maxhtx/Bitcoin-Trading-Strategy)
-
-### Experience
-- **Finance Leadership Program Associate Intern**  
-  McKesson, Dallas, TX  
-  June, 2024 - August, 2024  
+- **Finance Leadership Program Intern**  
+  *McKesson, Dallas, TX*  
+  *June 2024 – August 2024*
 
 - **Fixed Income Summer Analyst**  
-  Garcia Hamilton & Associates, Houston, TX    
-  July 2023 - August 2023
+  *Garcia Hamilton & Associates, Houston, TX*  
+  *July 2023 – August 2023*
 
-### Contact Me
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/max-helman/)
-- **Email**: [Email Address](mailto:max.helman@yahoo.com)
+---
 
-### Let's Connect
-I am always open to discussing data science, finance, or potential job opportunities. Feel free to reach out!
+### 🧠 Skills  
+- **Programming Languages**: Python, R, SQL, HTML, CSS  
+- **Data Analysis**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras  
+- **Data Visualization**: Matplotlib, Seaborn, Plotly  
+- **Databases**: MySQL, NoSQL  
+- **Tools**: Git, Jupyter Notebooks, Tableau, Power BI, Excel  
+- **Finance**: Financial modeling, Quantitative analysis
+
+---
+
+### 📈 Projects  
+- **[Building YouTube Homepage (HTML/CSS)](https://github.com/maxhtx/Building-Youtube-html-css)**  
+  Built a static replica of YouTube’s homepage using HTML/CSS, including grid layout, headers, and navigation
+
+- **[Algorithmic Trading Strategy](https://github.com/maxhtx/Bitcoin-Trading-Strategy)**  
+  Developed an XGBoost-based model with a 7% return over a 1-year training period  
+  • Engineered 12 features from trading data using SQL and Python  
+  • Cleaned financial datasets and visualized results with Seaborn  
+  • Designed a trading strategy with optimized stop-loss and take-profit levels via grid search
+
+---
+
+### 📬 Contact Me  
+- **[LinkedIn](https://www.linkedin.com/in/max-helman/)**  
+- **[Email](mailto:max.helman@yahoo.com)**
+
+---
+
+### 🤝 Let's Connect  
+Always happy to chat about finance, data science, or exciting new opportunities—feel free to reach out!
