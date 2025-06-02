@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Max
 
 ### About Me  
-I'm a **Finance Leadership Program Associate at McKesson**, with a Master’s in Financial Technology and Analytics from the University of Texas at Dallas. I'm passionate about applying data science, analytics, and machine learning to solve complex problems in finance. I’ve completed hands-on projects in algorithmic trading and financial modeling, and I enjoy turning data into actionable insights.
+I'm an incoming **Finance Leadership Program Associate at McKesson**, with a Master’s in Financial Technology and Analytics from the University of Texas at Dallas. I'm passionate about applying data science, analytics, and machine learning to solve complex problems in finance. I’ve completed hands-on projects in algorithmic trading and financial modeling, and I enjoy turning data into actionable insights.
 
 ---
 
@@ -14,10 +14,6 @@ I'm a **Finance Leadership Program Associate at McKesson**, with a Master’s in
 ---
 
 ### 💼 Experience  
-- **Finance Leadership Program Associate**  
-  *McKesson, Dallas, TX*  
-  *August 2024 – Present*
-
 - **Finance Leadership Program Intern**  
   *McKesson, Dallas, TX*  
   *June 2024 – August 2024*
